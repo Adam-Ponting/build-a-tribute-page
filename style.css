@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  padding: 0 2rem;
+  background-color: #faf8f8;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+}
+p {
+  color: #444;
+  font-size: 1.2em;
+}
+figure {
+  margin: 0;
+}
+#img-div {
+  background: rgb(2, 0, 36);
+  background: radial-gradient(
+    circle,
+    rgb(0, 0, 0) 0%,
+    rgb(12, 12, 59) 70%,
+    rgb(27, 27, 53) 80%,
+    rgb(3, 3, 17) 90%,
+    rgb(17, 21, 22) 100%
+  );
+  padding: 1em;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+figcaption {
+  padding-top: 1em;
+  text-align: center;
+  color: aliceblue;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  margin: 0.7rem 0;
+}
+
+#tribute-info {
+  margin: 2rem 0;
+}
+
+aside {
+  margin: 3rem;
+}
+blockquote p {
+  font-size: 1em;
+  font-style: italic;
+}
