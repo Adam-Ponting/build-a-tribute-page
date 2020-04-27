@@ -10,7 +10,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 .main {
-  background-color: hsl(0, 6%, 81%);
+  background-color: hsl(0, 6%, 91%);
   padding: 2em 1em;
 }
 .header {
@@ -72,6 +72,10 @@ blockquote {
   .tribute-info {
     margin: 0 auto;
     max-width: 800px;
+  }
+  .image {
+    width: 1000px;
+    margin: 0 auto;
   }
   ul li {
     text-align: left;
